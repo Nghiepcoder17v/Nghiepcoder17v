@@ -38,5 +38,5 @@ A peer-to-peer marketplace for UIT students, paired with an end-to-end data pipe
 ## 📫 Contact
 
 - Email: `Havannghiep7798@gmail.com`
-- LinkedIn: `<your-linkedin-url>`
+- LinkedIn: `Nghiep Ha Van`
 - Location: Ho Chi Minh City, Vietnam
